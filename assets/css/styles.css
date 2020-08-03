@@ -43,3 +43,25 @@ li a {
 li a:hover {
  text-shadow: 1px 1px #333;
 }
+/* End header code. */
+
+/* Begin img-header code. */
+#img-header {
+  background-image: url("../images/page-background.jpg");
+  background-size: 100%;
+  padding: 200px;
+}
+
+#img-header h1 {
+  font-size: 4vw;
+  color: yellow;
+  text-shadow: 5px 5px black;
+  display: flex;
+  justify-content: center;
+}
+/* End img-header code. */
+
+/* Begin about-section code. */
+#about-section {
+  padding: 200px;
+}
